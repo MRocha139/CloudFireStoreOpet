@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "451522102022",
+    "firebase_url": "https://firestore-fb34f.firebaseio.com",
+    "project_id": "firestore-fb34f",
+    "storage_bucket": "firestore-fb34f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451522102022:android:287968312daaa4f8",
+        "android_client_info": {
+          "package_name": "com.example.opet.cloudfirestoreopet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQxGyytAmXVvz605F-dbmltmQuj2F3UGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451522102022-va0pclnsv6avumo5lhk3tmqkvtgfskjr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451522102022:android:30c5a115e42f2846",
+        "android_client_info": {
+          "package_name": "com.example.opet.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451522102022-aebnrp4b095njtb80seppeaatm74365g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.opet.firestore",
+            "certificate_hash": "9562e78174760a50c858561dc34958b4b112553b"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQxGyytAmXVvz605F-dbmltmQuj2F3UGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451522102022-va0pclnsv6avumo5lhk3tmqkvtgfskjr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
